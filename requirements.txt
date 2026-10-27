@@ -1,0 +1,6 @@
+langchain
+langchain-mistralai
+langchain-tavily
+requests
+python-dotenv
+streamlit
